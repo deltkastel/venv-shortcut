@@ -7,5 +7,5 @@
 Now you can just...
 - Type `venv` in your terminal instead of `python -m venv venv` to create a virtual enviroment.
 - You can also use `venv myprojectname` instead of `python -m venv myprojectname`.
-- Enable a virtual enviroment with `-a` (for example: `venv -a` o `venv -a myprojectname`).
-- Exit the active virtual enviroment with `venv -d` or just `d` as a short alternative for `deactivate`.
+- Enable a virtual enviroment with `-a` (`venv -a` / `venv -a myprojectname`).
+- Exit the active virtual enviroment with `venv -d` or just `d` (without having to type venv).
