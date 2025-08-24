@@ -1,5 +1,5 @@
 @echo off
-set VENV_NAME=venv
+set VENV_NAME=venvy
 if not "%~1"=="" set VENV_NAME=%~1
 
 python -m venv "%VENV_NAME%"
